@@ -20,26 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b67b37f2-98cf-48f2-b827-233d39c5924f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/LoginNav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/LogoutNav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/RootLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_document.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/setting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/authReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/rootReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/LoginNav.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/LoginNav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +68,7 @@
       <updated>1599827954727</updated>
       <workItem from="1599827955687" duration="136000" />
       <workItem from="1599828307465" duration="1465000" />
-      <workItem from="1599848700151" duration="7430000" />
+      <workItem from="1599848700151" duration="8210000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1599828599214</created>
@@ -125,9 +108,9 @@
       <screen x="0" y="21" width="1920" height="1059" />
     </state>
     <state x="740" y="465" width="439" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.21.1920.1059@0.21.1920.1059" timestamp="1599849425705" />
-    <state x="623" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1599852824351">
+    <state x="623" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1599856557375">
       <screen x="0" y="21" width="1920" height="1059" />
     </state>
-    <state x="623" y="254" width="672" height="678" key="search.everywhere.popup/0.21.1920.1059@0.21.1920.1059" timestamp="1599852824351" />
+    <state x="623" y="254" width="672" height="678" key="search.everywhere.popup/0.21.1920.1059@0.21.1920.1059" timestamp="1599856557375" />
   </component>
 </project>
