@@ -15,7 +15,7 @@ export default () => {
 
     return (
         <RootLayout>
-            <h1>Hello, {name}</h1>
+            <h1>Hello, {name}.Today is perfect day!</h1>
         </RootLayout>
     )
 }

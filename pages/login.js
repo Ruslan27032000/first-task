@@ -3,12 +3,16 @@ import React, {useState} from 'react';
 import {useDispatch, useSelector} from "react-redux";
 import Login from "../components/Login";
 
-export default ()=>{
-    const auth = useSelector(state=>state.auth.auth);
-    if(!auth){
-        return <Login />
+export default () => {
+    const auth = useSelector(state => state.auth.auth);
+    if (!auth) {
+        return <Login/>
     }
-    return(
-       <h1>You are log in</h1>
+    return (
+        <>
+            <div className="spinner-border text-primary" role="status">
+                <span className="sr-only">Loading...</span>
+            </div>
+        </>
     )
 }
