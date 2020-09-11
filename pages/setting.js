@@ -27,13 +27,20 @@ export default () => {
 
     return (
         <RootLayout>
-            <div className="container mt-5 w-25 ">
-                <form onSubmit={onSubmitName}>
-                    <input className="form-control" placeholder="Enter new name" value={name} onChange={onChangeName}
-                           autoFocus/>
-                    <button className="btn btn-lg btn-primary btn-block mt-4" type="submit">Sign in</button>
-                </form>
-            </div>
+            {login ?
+                <div className="container mt-5 w-25 ">
+                    <form onSubmit={onSubmitName}>
+                        <input className="form-control" placeholder="Enter new name" value={name} onChange={onChangeName}
+                               autoFocus/>
+                        <button className="btn btn-lg btn-primary btn-block mt-4" type="submit">Sign in</button>
+                    </form>
+                </div>
+                :
+                <div className="spinner-border text-primary" role="status">
+                    <span className="sr-only">Loading...</span>
+                </div>}
+            }
+
 
         </RootLayout>
     )

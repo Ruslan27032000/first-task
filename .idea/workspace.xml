@@ -21,10 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b67b37f2-98cf-48f2-b827-233d39c5924f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redux/authReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/redux/authReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/setting.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/setting.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,8 @@
       <updated>1599827954727</updated>
       <workItem from="1599827955687" duration="136000" />
       <workItem from="1599828307465" duration="1465000" />
-      <workItem from="1599848700151" duration="9734000" />
+      <workItem from="1599848700151" duration="9830000" />
+      <workItem from="1599858679557" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1599828599214</created>
@@ -110,6 +109,10 @@
       <screen x="0" y="21" width="1920" height="1059" />
     </state>
     <state x="740" y="465" width="439" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.21.1920.1059@0.21.1920.1059" timestamp="1599849425705" />
+    <state x="624" y="250" key="run.anything.popup" timestamp="1599858705706">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state x="624" y="250" key="run.anything.popup/0.21.1920.1059@0.21.1920.1059" timestamp="1599858705706" />
     <state x="623" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1599856557375">
       <screen x="0" y="21" width="1920" height="1059" />
     </state>

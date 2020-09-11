@@ -6,16 +6,20 @@ import {useEffect} from "react";
 
 export default () => {
     const login = useSelector(state => state.auth.auth)
-    const name = useSelector(state=>state.auth.name)
-    useEffect(()=>{
+    const name = useSelector(state => state.auth.name)
+    useEffect(() => {
         if (!login) {
             Router.push('/login')
         }
-    },[])
+    }, [])
 
     return (
         <RootLayout>
-            <h1>Hello, {name}.Today is perfect day!</h1>
+            {login ?
+                <h1>Hello, {name}.Today is perfect day!</h1> :
+                <div className="spinner-border text-primary" role="status">
+                    <span className="sr-only">Loading...</span>
+                </div>}
         </RootLayout>
     )
 }
