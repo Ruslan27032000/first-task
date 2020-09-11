@@ -3,7 +3,7 @@ const LOGOUT = 'LOGOUT'
 const RENAME = 'RENAME'
 
 const initialState = {
-    auth: false,
+    auth: true,
     login:'admin',
     password:'12345',
     name:'Admin'
