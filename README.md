@@ -18,5 +18,5 @@ yarn dev
 
 Приятной проверки :D
 
-##And please, don't forget that I'm [junior](https://thecode.media/junior/)!
+## And please, don't forget that I'm [junior](https://thecode.media/junior/)!
 
